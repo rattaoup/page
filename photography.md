@@ -69,9 +69,7 @@ North America
   <img src="pics/slideshows/01.jpg" class="carousel-image active">
   <img src="pics/slideshows/02.jpg" class="carousel-image">
   <img src="pics/slideshows/03.jpg" class="carousel-image">
-  <img src="pics/slideshows/04.jpg" class="carousel-image">
   <img src="pics/slideshows/05.jpg" class="carousel-image">
-  <img src="pics/slideshows/06.jpg" class="carousel-image">
   <img src="pics/slideshows/07.jpg" class="carousel-image">
   <img src="pics/slideshows/08.jpg" class="carousel-image">
   <img src="pics/slideshows/09.jpg" class="carousel-image">
@@ -79,11 +77,6 @@ North America
   <img src="pics/slideshows/11.jpg" class="carousel-image">
   <img src="pics/slideshows/12.jpg" class="carousel-image">
   <img src="pics/slideshows/13.jpg" class="carousel-image">
-  <img src="pics/slideshows/14.jpg" class="carousel-image">
-  <img src="pics/slideshows/15.jpg" class="carousel-image">
-  <img src="pics/slideshows/16.jpg" class="carousel-image">
-  <img src="pics/slideshows/17.jpg" class="carousel-image">
-  <img src="pics/slideshows/18.jpg" class="carousel-image">
 
   <!-- Caption with arrows -->
   <div id="carouselCaption" class="carousel-caption">
@@ -98,21 +91,14 @@ North America
       'Marrakech',
       'Budapest',
       'Ha Long Bay',
-      'Taipei',
       'Vienna',
-      'Taipei',
       'Marrakech',
       'Bangkok',
       'Cancun',
       'Hanoi',
       'Marrakech',
       'New York',
-      'Lima',
-      'Pittsburgh',
-      'Pittsburgh',
-      'Pittsburgh',
-      'Toronto',
-      'Las Vegas'
+      'Lima'
     ];
     const captionText = document.querySelector('#carouselCaption span');
     let currentIndex = 0;
