@@ -26,11 +26,11 @@ NeurIPS 2025
 
 **Learning from Weak Labelers as Constraints** <br>
 Vishwajeet Agrawal\*, **Rattana Pukdee**\*, Maria Florina Balcan, Pradeep Ravikumar <br>
-ICLR 2025
+ICLR 2025 [Paper](https://openreview.net/pdf?id=2BtFKEeMGo) <br>
 
 **On the Consistent Recovery of Joint Distributions from Conditionals** <br>
 Mahbod Majid\*, **Rattana Pukdee**\*, Vishwajeet Agrawal\*, Burak Varıcı, Pradeep Ravikumar <br>
-AISTATS 2025
+AISTATS 2025 [Paper](https://proceedings.mlr.press/v258/majid25a.html) <br>
 
 **Spectrally Transformed Kernel Regression** <br>
 Runtian Zhai, **Rattana Pukdee**, Roger Jin, Maria-Florina Balcan, Pradeep Ravikumar <br>
