@@ -1,23 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <dirinfo>
 <files>
-	<item key='01.jpg20241129234802' />
-	<item key='02.jpg20241129233622' />
-	<item key='03.jpg20250110021943' />
-	<item key='05.jpg20241130000033' />
-	<item key='07.jpg20241129234804' />
-	<item key='09.jpg20241129230246' />
-	<item key='11.jpg20241129234803' />
-	<item key='12.jpg20241129235232' />
-	<item key='13.jpg20241129234409' />
-	<item key='14.jpg20241129235914' />
-	<item key='15.jpg20241129235915' />
-	<item key='16.jpg20241129235915' />
-	<item key='17.jpg20241129225706' />
-	<item key='18.jpg20241130010004' />
-	<item key='06.jpg20250123114347' />
-	<item key='08.jpg20250123114347' />
-	<item key='10.jpg20250123114346' />
-	<item key='04.jpg20250123114347' />
+	<item key='AdobeBridgeBatchRenameTemp100.jpg20260519155953' />
+	<item key='AdobeBridgeBatchRenameTemp201.jpg20241129230246' />
+	<item key='AdobeBridgeBatchRenameTemp302.jpg20250110021943' />
+	<item key='AdobeBridgeBatchRenameTemp403.JPG20260302083830' />
+	<item key='AdobeBridgeBatchRenameTemp504.jpg20241129235232' />
+	<item key='AdobeBridgeBatchRenameTemp605.jpg20251220174553' />
+	<item key='AdobeBridgeBatchRenameTemp706.jpg20250123121601' />
+	<item key='AdobeBridgeBatchRenameTemp807.jpg20250123114346' />
+	<item key='AdobeBridgeBatchRenameTemp908.jpg20241129234409' />
+	<item key='AdobeBridgeBatchRenameTemp1009.jpg20241129234803' />
+	<item key='AdobeBridgeBatchRenameTemp1110.jpg20241129234802' />
+	<item key='AdobeBridgeBatchRenameTemp1211.jpg20241129234804' />
+	<item key='old20260519160430' />
 </files>
 </dirinfo>

@@ -19,10 +19,14 @@ My name is Rattana Pukdee. I am a fifth year PhD student in the [Machine Learnin
 *** -->
 
 ## Papers
+**What Does Preference Learning Recover from Pairwise Comparison Data?**<br>
+**Rattana Pukdee**, Nina Balcan, Pradeep Ravikumar<br>
+ICML 2026 [Paper](https://arxiv.org/abs/2602.10286)
+
 
 **Learning with Interval Targets**<br>
 **Rattana Pukdee**, Ziqi Ke, Chirag Gupta <br>
-NeurIPS 2025
+NeurIPS 2025 [Paper](https://arxiv.org/abs/2510.20925)
 
 **Learning from Weak Labelers as Constraints** <br>
 Vishwajeet Agrawal\*, **Rattana Pukdee**\*, Maria Florina Balcan, Pradeep Ravikumar <br>

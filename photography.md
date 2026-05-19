@@ -66,17 +66,18 @@ North America
   </style>
 
   <!-- Images -->
-  <img src="pics/slideshows/01.jpg" class="carousel-image active">
+  <img src="pics/slideshows/00.jpg" class="carousel-image active">
+  <img src="pics/slideshows/01.jpg" class="carousel-image">
   <img src="pics/slideshows/02.jpg" class="carousel-image">
   <img src="pics/slideshows/03.jpg" class="carousel-image">
+  <img src="pics/slideshows/04.jpg" class="carousel-image">
   <img src="pics/slideshows/05.jpg" class="carousel-image">
+  <img src="pics/slideshows/06.jpg" class="carousel-image">
   <img src="pics/slideshows/07.jpg" class="carousel-image">
   <img src="pics/slideshows/08.jpg" class="carousel-image">
   <img src="pics/slideshows/09.jpg" class="carousel-image">
   <img src="pics/slideshows/10.jpg" class="carousel-image">
   <img src="pics/slideshows/11.jpg" class="carousel-image">
-  <img src="pics/slideshows/12.jpg" class="carousel-image">
-  <img src="pics/slideshows/13.jpg" class="carousel-image">
 
   <!-- Caption with arrows -->
   <div id="carouselCaption" class="carousel-caption">
@@ -88,17 +89,18 @@ North America
   <script>
     const images = document.querySelectorAll('.carousel-image');
     const captions = [
-      'Marrakech',
-      'Budapest',
-      'Ha Long Bay',
-      'Vienna',
-      'Marrakech',
-      'Bangkok',
-      'Cancun',
-      'Hanoi',
-      'Marrakech',
-      'New York',
-      'Lima'
+      'Copenhagen 2025',
+      'Cancun 2024'
+      'Ha Long Bay 2024',
+      'San Juan 2026',
+      'NYC 2024',
+      'Mexico City 2025',
+      'Bangkok 2024',
+      'Hanoi 2024 ',
+      'Lima 2024',
+      'Marrakech 2024',
+      'Marrakech 2024',
+      'Marrakech 2024',
     ];
     const captionText = document.querySelector('#carouselCaption span');
     let currentIndex = 0;
