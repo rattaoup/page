@@ -66,10 +66,10 @@ North America
   </style>
 
   <!-- Images -->
-  <img src="pics/slideshows/00.jpg" class="carousel-image active">
+  <img src="pics/slideshows/00.jpeg" class="carousel-image active">
   <img src="pics/slideshows/01.jpg" class="carousel-image">
-  <img src="pics/slideshows/02.jpg" class="carousel-image">
-  <img src="pics/slideshows/03.jpg" class="carousel-image">
+  <img src="pics/slideshows/02.jpeg" class="carousel-image">
+  <img src="pics/slideshows/03.jpeg" class="carousel-image">
   <img src="pics/slideshows/04.jpg" class="carousel-image">
   <img src="pics/slideshows/05.jpg" class="carousel-image">
   <img src="pics/slideshows/06.jpg" class="carousel-image">
@@ -82,7 +82,7 @@ North America
   <!-- Caption with arrows -->
   <div id="carouselCaption" class="carousel-caption">
     <button onclick="prevImage()">&#8592;</button>
-    <span>Marrakech</span>
+    <span>Copenhagen 2025</span>
     <button onclick="nextImage()">&#8594;</button>
   </div>
 
@@ -90,7 +90,7 @@ North America
     const images = document.querySelectorAll('.carousel-image');
     const captions = [
       'Copenhagen 2025',
-      'Cancun 2024'
+      'Cancun 2024',
       'Ha Long Bay 2024',
       'San Juan 2026',
       'NYC 2024',
@@ -119,4 +119,6 @@ North America
       currentIndex = (currentIndex - 1 + images.length) % images.length;
       showImage(currentIndex);
     }
+
+    showImage(0);
   </script>
