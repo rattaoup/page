@@ -19,6 +19,11 @@ My name is Rattana Pukdee. I am a fifth year PhD student in the [Machine Learnin
 *** -->
 
 ## Papers
+
+**Reward Learning from Best-of-N Preference Data: Targets, Tradeoffs, and Design Principles**<br>
+**Rattana Pukdee**, Nina Balcan, Pradeep Ravikumar<br>
+Under Submission [Paper](https://arxiv.org/abs/2605.30619v1)
+
 **What Does Preference Learning Recover from Pairwise Comparison Data?**<br>
 **Rattana Pukdee**, Nina Balcan, Pradeep Ravikumar<br>
 ICML 2026 [Paper](https://arxiv.org/abs/2602.10286)
